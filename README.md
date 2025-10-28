@@ -3,7 +3,7 @@ cat > README.md <<'MD'
 
 Simple static site for DevOps Internship — hosted on GitHub Pages.
 
-**Live site:** https://yourusername.github.io/my-static-website/
+**Live site:** https://manoharrmnhr.github.io/static-website-githubpages/
 
 **How to run locally**
 Open `index.html` in a browser.
